@@ -1,0 +1,21 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.carousel-control-next.button {
+    background-color: black
+}
+
+.carousel-caption {
+    color: black
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%)
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
